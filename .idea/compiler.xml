@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Neural-Network-Programming-with_Java-FirstEdition" />
+        <module name="Chapter9" />
+        <module name="Chapter8" />
+        <module name="Chapter7" />
+        <module name="Chapter6" />
+        <module name="Chapter5" />
+        <module name="Chapter4" />
+        <module name="Chapter3" />
+        <module name="Chapter2" />
+        <module name="Chapter1" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Chapter1" target="1.8" />
+      <module name="Chapter2" target="1.8" />
+      <module name="Chapter3" target="1.8" />
+      <module name="Chapter4" target="1.8" />
+      <module name="Chapter5" target="1.8" />
+      <module name="Chapter6" target="1.8" />
+      <module name="Chapter7" target="1.8" />
+      <module name="Chapter8" target="1.8" />
+      <module name="Chapter9" target="1.8" />
+      <module name="Neural-Network-Programming-with_Java-FirstEdition" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
