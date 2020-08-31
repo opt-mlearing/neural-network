@@ -3,10 +3,16 @@ package edu.packt.neuralnet;
 import java.util.ArrayList;
 import java.util.Random;
 
+/**
+ * 神经元
+ */
 public class Neuron {
 
+    // 输入树突对应权重.
     private ArrayList<Double> listOfWeightIn;
+    // 输出轴突对应权重.
     private ArrayList<Double> listOfWeightOut;
+    //
     private double outputValue;
     private double error;
     private double sensibility;

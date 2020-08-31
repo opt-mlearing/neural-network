@@ -8,6 +8,8 @@ import edu.packt.neuralnet.util.Matrix;
 import java.util.ArrayList;
 
 /**
+ * Levenberg-Marquardt学习算法.
+ *
  * @author Administrador
  */
 public class LevenbergMarquardt extends Backpropagation {

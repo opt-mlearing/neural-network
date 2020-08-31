@@ -9,6 +9,9 @@ import edu.packt.neuralnet.learn.Perceptron;
 import edu.packt.neuralnet.learn.Training.ActivationFncENUM;
 import edu.packt.neuralnet.learn.Training.TrainingTypesENUM;
 
+/**
+ * 神经网络.
+ */
 public class NeuralNet {
 
     private InputLayer inputLayer;

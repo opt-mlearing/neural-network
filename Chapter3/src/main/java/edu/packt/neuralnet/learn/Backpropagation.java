@@ -6,6 +6,9 @@ import edu.packt.neuralnet.HiddenLayer;
 import edu.packt.neuralnet.NeuralNet;
 import edu.packt.neuralnet.Neuron;
 
+/**
+ * BP反向传播神经网络.
+ */
 public class Backpropagation extends Training {
 
     public NeuralNet train(NeuralNet n) {

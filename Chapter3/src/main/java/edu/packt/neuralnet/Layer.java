@@ -2,6 +2,9 @@ package edu.packt.neuralnet;
 
 import java.util.ArrayList;
 
+/**
+ * 神经网络中的"层"
+ */
 public abstract class Layer {
 
     private ArrayList<Neuron> listOfNeurons;

@@ -3,6 +3,9 @@ package edu.packt.neuralnet;
 import java.util.ArrayList;
 import java.util.Arrays;
 
+/**
+ * 输出层.
+ */
 public class OutputLayer extends Layer {
 
     public OutputLayer initLayer(OutputLayer outputLayer) {

@@ -3,6 +3,9 @@ package edu.packt.neuralnet;
 import java.util.ArrayList;
 import java.util.Arrays;
 
+/**
+ * 隐藏层.
+ */
 public class HiddenLayer extends Layer {
 
     public ArrayList<HiddenLayer> initLayer(HiddenLayer hiddenLayer,
